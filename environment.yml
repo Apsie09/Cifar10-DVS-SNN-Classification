@@ -1,0 +1,19 @@
+name: snn-cifar10dvs
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytorch
+  - torchvision
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - ipykernel
+  - pip
+  - pip:
+      - aedat
+      - snntorch
+      - tonic
+      - pandas

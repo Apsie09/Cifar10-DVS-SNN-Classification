@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+src/snn_cifar10dvs/__pycache__/
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+
+# Project outputs
+outputs/checkpoints/
+outputs/metrics/
+outputs/figures/final_training_curves.png
+
+# Local report files
+report/
+
+# Course-only local material
+PROJECT_STATUS.md
+REPORT_NOTES.md
+Курсов проект по Невронни мрежи.pdf
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Local notes
+session.txt
+prompt.txt
