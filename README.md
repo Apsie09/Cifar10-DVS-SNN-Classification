@@ -102,9 +102,3 @@ The repository includes selected figures generated during the project:
 - final confusion matrix
 
 These are stored in `outputs/figures/`.
-
-## Notes
-
-- The dataset itself is intentionally excluded from version control.
-- Model checkpoints are also excluded from the repository.
-- The Bulgarian course report is maintained separately and is not part of the public GitHub version.
